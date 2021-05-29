@@ -61,7 +61,7 @@ body{
     background-position: center;
     box-shadow: 0 12px 18px rgba(0, 0, 0, 1);
     width: 100%;
-    min-height: auto;
+    /* min-height: auto; */
   }
 
   .banner p{
