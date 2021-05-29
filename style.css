@@ -144,8 +144,8 @@ body{
 
    }
    .pp img{
-     width: 250px;
-     height: 250px;
+     width: 200px;
+     height: 200px;
      border-radius: 50% 50%;
      position: relative;
      top: 0;
@@ -161,8 +161,8 @@ body{
      position: relative;
    }
    .pp2 img{
-     width: 250px;
-     height: 250px;
+     width: 200px;
+     height: 200px;
      border-radius: 50% 50%;
      position: relative;
      bottom: 0px;
