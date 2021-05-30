@@ -49,6 +49,13 @@ $(window).scroll(function(){
 
 	}
 
+	// about
+	// if( wScroll > $('.about').offset().top - 600 ) {
+		
+	// 	$('.kiri').addClass('kiri-go');
+	// 	$('.kanan').addClass('kanan-go')
+	// }
+
 });
 
 
