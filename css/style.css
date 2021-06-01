@@ -217,12 +217,15 @@ section {
     outline: black;
   }
 
-  .footer{
-    background: rgb(230,232,189);
-    background: linear-gradient(90deg, rgba(230,232,189,1) 0%, rgba(220,241,241,1) 51%, rgba(86,97,87,1) 97%);
-    width: 100%;
-    min-height: 100px;
-    font-family: "Raleway";
+  .foter{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  text-align: center;
+  height: 50px;
+  font-size: 20px;
   }
  /*ahir akad dan resepsi*/
 
